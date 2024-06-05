@@ -20,7 +20,8 @@ Algunos de los conceptos utilizados para la generación de ésta App, son:
 4. useEffect.
 5. useMemo.
 6. LocalStorage.
-7. Y más.
+7. Hooks personalizados.
+8. Y más.
 
 # React + Vite
 
